@@ -9,11 +9,10 @@ body {
     background-image: src="href="https://www.vecteezy.com/free-vector/3d;
 } */
     
-/* .index header h2 {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding-top: 10px;
-} */
+header h2 {
+    padding-top: 20px; 
+    margin-left: 10px;
+}
 
 footer img {
     align-items: center;
